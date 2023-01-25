@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tazkeya Islam</h1>
 <h3 align="center">A passionate full-stack developer from Paris,France</h3>
 
-<img align=”right” alt=”Coding” width=”400” src= “https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif”>
+<img align=”right” width=”400” src= “https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazkeyaislam&label=Profile%20views&color=0e75b6&style=flat" alt="tazkeyaislam" /> </p>
 
