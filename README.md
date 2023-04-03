@@ -207,11 +207,7 @@
     rel="noopener noreferrer nofollow"
     href="https://camo.githubusercontent.com/3f0e26b0951bab845a1bb9a7198ecca0da272e462921b6edd85879f3673b6927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"
     >
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://camo.githubusercontent.com/0f6325940d36137c3e77d69b0dfe0ffb33e9a1084faf9cc843a9c929a874c709/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465"
-    ><img
+ <img
       src="https://camo.githubusercontent.com/0f6325940d36137c3e77d69b0dfe0ffb33e9a1084faf9cc843a9c929a874c709/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465"
       alt="Notion"
       data-canonical-src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white"
@@ -260,12 +256,7 @@
       target="_blank"
       rel="noreferrer"
     >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-      />
+  
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
       <img
