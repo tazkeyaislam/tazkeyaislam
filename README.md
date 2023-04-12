@@ -256,8 +256,7 @@
       target="_blank"
       rel="noreferrer"
     >
-  
-    </a>
+ 
   </p>
   
 </p>
